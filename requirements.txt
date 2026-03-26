@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+numpy
+torch
+screeninfo
+pygame
+pyautogui
+filterpy
