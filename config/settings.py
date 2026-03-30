@@ -25,12 +25,6 @@ DWELL_TIME = 0.8
 DWELL_COOLDOWN = 1.2
 DWELL_RADIUS = 50
 
-# --- Gaze Range ---
-GAZE_X_MIN = 0.0
-GAZE_X_MAX = 1.0
-GAZE_Y_MIN = 0.0
-GAZE_Y_MAX = 1.0
-
 # --- Virtual Keyboard ---
 KEY_WIDTH = 60
 KEY_HEIGHT = 60
