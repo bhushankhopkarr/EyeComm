@@ -1,7 +1,3 @@
-Here’s your original content with only the name changed from **GazeControl → EyeComm**:
-
----
-
 # EyeComm
 
 EyeComm is a real-time eye-gaze mouse and virtual keyboard system built with Python.
